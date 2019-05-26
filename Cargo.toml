@@ -1,0 +1,7 @@
+[package]
+name = "hackathon_1"
+version = "0.1.0"
+authors = ["abrar124 <abrar.khurshid.124@gmail.com>"]
+edition = "2018"
+
+[dependencies]
